@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    color: white;
+    border: .15rem solid lightgray;
+    width: 74.5%;
+    border-radius: .3rem;
+    border-top-right-radius: 0rem;
+    border-top-left-radius: 0rem;
+}
